@@ -1,0 +1,29 @@
+name: studio-CTC
+favicon: null
+layout_spectrum: 0.3323475937359035
+typography_spectrum: 0.15147401671856642
+title: Studio CACHOUA TORRES CAMILLETTI
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.16763739986345172
+  lightness: 0.4656946195755154
+  saturation: 0.3103072333615273
+  rhythmicContrast: 0.8864223703276366
+purpose: []
